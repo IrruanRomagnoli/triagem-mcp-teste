@@ -1,0 +1,110 @@
+{
+  "repo": "IrruanRomagnoli/triagem-mcp-teste",
+  "fonte": "MCP github (leitura), em 2026-11-11",
+  "issues": [
+    {
+      "number": 15,
+      "title": "Problema com o tema escuro",
+      "body": "Problema com o tema escuro na parte de cadastro de clientes ",
+      "author": "MauricioOliveir4",
+      "created_at": "2026-11-10T17:21:21Z",
+      "label": "bug",
+      "response": {
+        "body": "Triagem automática (aprovada por humano): Classificada como bug, pois o tema escuro apresenta comportamento incorreto na tela de cadastro de clientes.",
+        "created_at": "2026-11-10T17:50:27Z",
+        "url": "https://github.com/IrruanRomagnoli/triagem-mcp-teste/issues/15#issuecomment-6774851700"
+      }
+    },
+    {
+      "number": 16,
+      "title": "Necessario atualizacao no calculo de horas",
+      "body": "devido a alterações nas leis numero 6767/2026 é necessario alterar no sistema\n",
+      "author": "MauricioOliveir4",
+      "created_at": "2026-11-10T17:22:52Z",
+      "label": "enhancement",
+      "response": {
+        "body": "Triagem automática (aprovada por humano): Classificada como melhoria, pois pede adequar o cálculo de horas a uma mudança legal, ou seja, uma alteração de regra e não um defeito.",
+        "created_at": "2026-11-10T17:50:29Z",
+        "url": "https://github.com/IrruanRomagnoli/triagem-mcp-teste/issues/16#issuecomment-6774852580"
+      }
+    },
+    {
+      "number": 17,
+      "title": "teste da nova  issue",
+      "body": "Estou testando na parte de fazer a triagem manual do sistema",
+      "author": "MauricioOliveir4",
+      "created_at": "2026-11-10T17:23:33Z",
+      "label": "question",
+      "response": {
+        "body": "Triagem automática (aprovada por humano): Sem certeza do label: o texto descreve apenas um teste da triagem manual, sem problema ou pedido concreto. Proposto `question` até haver mais detalhes.",
+        "created_at": "2026-11-10T17:50:32Z",
+        "url": "https://github.com/IrruanRomagnoli/triagem-mcp-teste/issues/17#issuecomment-6774853502"
+      }
+    },
+    {
+      "number": 18,
+      "title": "problema na integração",
+      "body": "problema na integração com o servidor, terei q ver o que aconterce\n",
+      "author": "MauricioOliveir4",
+      "created_at": "2026-11-10T17:31:06Z",
+      "label": "question",
+      "response": {
+        "body": "Triagem automática (aprovada por humano): Sem certeza do label: o relato não diz qual integração falha nem qual é o erro, e o autor ainda vai investigar. Proposto `question` até haver mais informações.",
+        "created_at": "2026-11-10T17:50:34Z",
+        "url": "https://github.com/IrruanRomagnoli/triagem-mcp-teste/issues/18#issuecomment-6774854480"
+      }
+    },
+    {
+      "number": 19,
+      "title": "tentativa invalida",
+      "body": "ao tentar fazer o cadastro do usuario 000099123 o sistema marca como tentativa invalida, favor investigar a causa",
+      "author": "MauricioOliveir4",
+      "created_at": "2026-11-10T17:31:50Z",
+      "label": "bug",
+      "response": {
+        "body": "Triagem automática (aprovada por humano): Classificada como bug, pois o cadastro de um usuário é rejeitado como tentativa inválida e a causa precisa ser investigada.",
+        "created_at": "2026-11-10T17:50:36Z",
+        "url": "https://github.com/IrruanRomagnoli/triagem-mcp-teste/issues/19#issuecomment-6774855244"
+      }
+    },
+    {
+      "number": 20,
+      "title": "teste de tempo para gerar o issue",
+      "body": "Fazer na mão demora demais, alem de ter que  escrever, tem que constatar o problema e comentar aqui \n",
+      "author": "MauricioOliveir4",
+      "created_at": "2026-11-10T17:33:06Z",
+      "label": "question",
+      "response": {
+        "body": "Triagem automática (aprovada por humano): Sem certeza do label: o texto é um comentário sobre o esforço da triagem manual, sem defeito ou pedido sobre o sistema. Proposto `question` até esclarecer o objetivo.",
+        "created_at": "2026-11-10T17:50:38Z",
+        "url": "https://github.com/IrruanRomagnoli/triagem-mcp-teste/issues/20#issuecomment-6774855907"
+      }
+    },
+    {
+      "number": 21,
+      "title": "alteração no brilho quando algum monitor com hdr usa o sistema",
+      "body": "alteração no brilho quando algum monitor com hdr usa o sistema",
+      "author": "MauricioOliveir4",
+      "created_at": "2026-11-10T17:33:54Z",
+      "label": "bug",
+      "response": {
+        "body": "Triagem automática (aprovada por humano): Classificada como bug, pois o brilho muda de forma indevida quando o sistema é usado em monitores HDR.",
+        "created_at": "2026-11-10T17:50:40Z",
+        "url": "https://github.com/IrruanRomagnoli/triagem-mcp-teste/issues/21#issuecomment-6774856696"
+      }
+    },
+    {
+      "number": 22,
+      "title": "sistema em 100%",
+      "body": "ainda nao entendi o que está gerando  o gargalo de processamento do processador ",
+      "author": "MauricioOliveir4",
+      "created_at": "2026-11-10T17:34:48Z",
+      "label": "bug",
+      "response": {
+        "body": "Triagem automática (aprovada por humano): Classificada como bug de desempenho, pois o sistema satura o processador, embora a causa ainda seja desconhecida.",
+        "created_at": "2026-11-10T17:50:42Z",
+        "url": "https://github.com/IrruanRomagnoli/triagem-mcp-teste/issues/22#issuecomment-6774857466"
+      }
+    }
+  ]
+}
